@@ -1,20 +1,18 @@
 ---
 layout: post
 title: Trust Evaluation in OSNs
-subtitle: Implementing SWTrust framework for online social networks based on [this paper](https://ieeexplore.ieee.org/abstract/document/6120835)
-tags: [Project]
+subtitle: Implementing SWTrust framework for online social networks
 comments: true
 ---
 
 ### Brief introduction
 
 {: .box-note}
-**I**n this project we implemented SWTrust framework to generate trusted graphs for trust evaluation in online social networks. The algorithm is based on graph theory and weak ties. The results are tested for Epinions dataset.
+**I**n this project we implemented SWTrust framework based on [this paper](https://ieeexplore.ieee.org/abstract/document/6120835) to generate trusted graphs for trust evaluation in online social networks. The algorithm is based on graph theory and weak ties. The results are tested for Epinions dataset.
 
 
 ### SWTrust
- Implementing SWTrust framework for online social networks based on [this paper](https://ieeexplore.ieee.org/abstract/document/6120835)
-SWTrust is a framework that addresses the issue of \"Can Alice trust Bob on a service?\" in
+ Implementing SWTrust framework for online social networks SWTrust is a framework that addresses the issue of \"Can Alice trust Bob on a service?\" in
 large online social networks (OSNs). Many models have been proposed for constructing and calculating
 trust. However, two common shortcomings make them less practical, especially in large OSNs: the
 information used to construct trust is usually too complicated to get or maintain, that is, it is
