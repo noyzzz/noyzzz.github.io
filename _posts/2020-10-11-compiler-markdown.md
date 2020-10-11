@@ -6,10 +6,10 @@ tags: [Project]
 comments: true
 ---
 
-### Notification
+### Brief introduction
 
 {: .box-note}
-**Brief introduction:** in this project we implemented a compiler for a new grammer. CUPS and LLVM are the tools that we used for implementation. Tests were also designed with JUnit.
+**I**n this project we implemented a compiler for a new grammer. CUPS and LLVM are the tools that we used for implementation. Tests were also designed with JUnit.
 This project had three main phases. The first phase was implementing a lexical analyser for the given grammer. After that we implemented the parser using CUPS in java. The last phase was implementing the code generator which was done in LLVM.
 
 
