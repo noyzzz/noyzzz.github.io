@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trust Evaluation in OSNs
-subtitle: Implementing SWTrust framework for online social networks
+subtitle: Implementing SWTrust framework for online social networks based on [this paper](https://ieeexplore.ieee.org/abstract/document/6120835)
 tags: [Project]
 comments: true
 ---
@@ -16,8 +16,8 @@ comments: true
 SWTrust is a framework that addresses the issue of \"Can Alice trust Bob on a service?\" in
 large online social networks (OSNs). Many models have been proposed for constructing and calculating
 trust. However, two common shortcomings make them less practical, especially in large OSNs: the
-information used to construct trust is (1) usually too complicated to get or maintain, that is, it is
-resource consuming; and (2) usually subjective and changeable, which makes it vulnerable to vicious
+information used to construct trust is usually too complicated to get or maintain, that is, it is
+resource consuming; and usually subjective and changeable, which makes it vulnerable to vicious
 nodes. With those problems in mind, SWTrust is focused on generating small trusted graphs for large OSNs, which
 can be used to make previous trust evaluation algorithms more efficient and practical.
 At first we preprocess a social network (PSN) by developing a simple and practical user-domain-based trusted
