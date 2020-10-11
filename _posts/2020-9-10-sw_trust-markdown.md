@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trust Evaluation in OSNs
-subtitle: Implementing SWTrust framework for online social networks based on [this paper](https://ieeexplore.ieee.org/abstract/document/6120835)
+subtitle: Implementing SWTrust framework for online social networks based on [this paper]({% link https://ieeexplore.ieee.org/abstract/document/6120835 %})
 tags: [Project]
 comments: true
 ---
