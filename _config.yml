@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: Navid's Website
+title: My Website
 
 # Your name to show in the footer
 author: Navid Mahdian
 
 # --- List of links in the navigation bar --- #
-#
- navbar-links:
+
+navbar-links:
   About Me: "aboutme"
-  #Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mahdian.navid@gmail.com"
-  #facebook: deanattali
- # github: daattali
-#  twitter: daattali
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -51,7 +51,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +989224038397
+#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
