@@ -9,7 +9,7 @@
 title: My Website
 
 # Your name to show in the footer
-author: Some Person
+author: Navid Mahdian
 
 # --- List of links in the navigation bar --- #
 
@@ -36,9 +36,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -47,7 +47,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+   telephone: +989224038397
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
