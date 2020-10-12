@@ -9,5 +9,8 @@ comments: true
 ### Brief introduction
 
 * **Displacement Meter**
+![DP_METER](/assets/img/dpmeter.gif){: .mx-auto.d-block :}
+
+
 
 * **Velocity-based Meter**
