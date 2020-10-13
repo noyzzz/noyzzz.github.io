@@ -6,9 +6,9 @@ cover-img: /assets/img/run2.jpg
 ---
 
 My name is Navid Mahdian.
-I am so much into computer science and mostly robotics.
-Another important thing about me is how much i'm into excersices.
+I am crazy computer science and mostly robotics.
+Another important thing about me is how much I love excersices.
 
-The sports i'm most into are tennis, volleyball and soccer.
+The sports I mostly play are tennis, volleyball and soccer.
 
 I also live to run in nature.
