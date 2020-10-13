@@ -11,4 +11,4 @@ Another important thing about me is how much I love excersices.
 
 The sports I mostly play are tennis, volleyball and soccer.
 
-I also live to run in nature.
+I also love to run in nature.
