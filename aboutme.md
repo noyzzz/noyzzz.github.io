@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: who is Navid? :)
+cover-img: /assets/img/run.jpg
 ---
 
 My name is Navid Mahdian.
