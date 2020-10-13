@@ -22,6 +22,7 @@ A positive displacement meter is a type of flow meter that requires fluid to mec
 
 ### Ultrasonic Meters
 - Doppler effect meter
+
 The Doppler Effect Ultrasonic Flow meter use reflected ultrasonic sound to measure the fluid velocity. By measuring the frequency shift between the ultrasonic frequency source, the receiver, and the fluid carrier, the relative motion are measured.
 The resulting frequency shift is named the Doppler Effect.
 
