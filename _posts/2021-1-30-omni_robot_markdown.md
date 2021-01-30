@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Embedded Robotic System Design Process Based on High-Level Models and ROS
-tags: [Project, Compiler]
+tags: [Robotics, ROS, MATLAB/Simulink, Embedded Systems ]
 comments: true
 ---
 ### Brief introduction
