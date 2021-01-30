@@ -11,3 +11,7 @@ comments: true
 
 ### Design Process
 ![omni_robot_design_process](/assets/img/design_process.png){: .mx-auto.d-block :}
+
+### BUG2 MIL Testing on a Three-wheel Omni-directional Robot
+
+![bug2](/assets/img/bug2.gif){: .mx-auto.d-block :}
